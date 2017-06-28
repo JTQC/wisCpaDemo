@@ -1,0 +1,139 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    overflow: none;
+}
+
+.mainContain{
+    width: 100vw;
+    height: 100vh;
+}
+
+.fiveCol{
+    width: 5vw;
+    height: 100vh;
+    float: left;
+}
+.tenCol{
+    width: 10vw;
+    height: 100vh;
+    float: left;
+}
+
+.twelveHalfCol{
+    width: 12.5vw;
+    height: 100vh;
+    float: left;
+}
+
+.twentyCol{
+    width: 20vw;
+    height: 100vh;
+    float: left;
+}
+
+.twentyFiveCol{
+    width: 25vw;
+    height: 100vh;
+    float: left;
+   
+}
+
+.fiftyCol{
+    width: 50vw;
+    height: 100vh;
+    float: left;
+}
+
+.seventyFiveCol{
+    width: 75vw;
+    height: 100vh;
+    float: left;    
+}
+
+.seventyFiveCol{
+    width: 75vw;
+    height: 100vh;
+    float: left;    
+}
+
+.customCol{
+    height: 100vh;
+    float: left;
+}
+
+.fiftyRow{
+    width: 100vw;
+    height: 50vh;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.fullRow{
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+    float: left;
+}
+
+.seventyFiveRow{
+    width: 100vw;
+    height: 75vh;
+    display: inline-block;
+    float: left;
+}
+
+.twentyFiveRow{
+    width: 100vw;
+    height: 25vh;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+.tenRow{
+    width: 100vw;
+    height: 10vh;
+    display: inline-block;
+    float: left;
+}
+
+.ninetyRow{
+    width: 100vw;
+    height: 90vh;
+    display: inline-block;
+    float: left;
+}
+
+.fiveRow{
+    width: 100vw;
+    height: 5vh;
+    display: inline-block;
+    float: left;
+}
+
+.customRow{
+    width: 100vw;
+    display: inline-block;
+    float: left;
+}
+
+.twelveHalfRow{
+    width: 100vw;
+    height: 12.5vh;
+    float: left;
+}
+
+.halved {
+    width: 50vw;
+}   
+
+.quartered {
+    width: 25vw;
+}
+
+.thirded {
+    width: 33vw;
+}
